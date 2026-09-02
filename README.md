@@ -198,7 +198,7 @@ O Power BI foi conectado diretamente ao PostgreSQL (conexão ao vivo), utilizand
 - **Vendas por Categoria** (gráfico de pizza)
 - **3 filtros interativos (slicers):** Região, Categoria e Ano
 
-![Dashboard de Análise de Vendas - Superstore](painel.png)
+![Dashboard de Análise de Vendas - Superstore](dashboard.png)
 
 ---
 
